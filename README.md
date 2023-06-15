@@ -56,6 +56,7 @@
 - [google fonts](https://fonts.google.com/)
 - [fontspace](https://www.fontspace.com/)
 - [nerdfonts](https://www.nerdfonts.com/)
+- [fontpairing]([https://www.nerdfonts.com/](https://www.fontpair.co/all))
 
 ## Other Stuff
 - [Responsively](https://responsively.app/)
@@ -71,6 +72,8 @@
 - [codemyui](https://codemyui.com/)
 - [Frontend Checklist](https://frontendchecklist.io/)
 - [Keyframes](https://keyframes.app/)
+- [Omatsuri](https://omatsuri.app/)
+  - Tool Collection
 
 
 
