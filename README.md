@@ -56,7 +56,7 @@
 - [google fonts](https://fonts.google.com/)
 - [fontspace](https://www.fontspace.com/)
 - [nerdfonts](https://www.nerdfonts.com/)
-- [fontpairing]([https://www.nerdfonts.com/](https://www.fontpair.co/all))
+- [fontpairing](https://www.fontpair.co/all)
 
 ## Other Stuff
 - [Responsively](https://responsively.app/)
