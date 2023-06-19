@@ -57,6 +57,7 @@
 - [fontspace](https://www.fontspace.com/)
 - [nerdfonts](https://www.nerdfonts.com/)
 - [fontpairing](https://www.fontpair.co/all)
+- [coolors fonts](https://coolors.co/fonts/sans-serif)
 
 ## Other Stuff
 - [Responsively](https://responsively.app/)
