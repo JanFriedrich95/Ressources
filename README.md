@@ -45,6 +45,7 @@
 - [csswaves](https://getwaves.io/)
 - [shapedivider](https://www.shapedivider.app/)
 - [rad lines](https://msurguy.github.io/rad-lines/?qt=42&rn=-2&cv=curveCardinalOpen)
+- [universe.io](https://uiverse.io/)
 
 ## Illustrations
 - [undraw](https://undraw.co/)
