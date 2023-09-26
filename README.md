@@ -21,6 +21,7 @@
 - [Lordicon](https://lordicon.com/)
 - [icons8](https://icons8.com/icons/set/popular--animated)
 - [useanimations](https://useanimations.com/#explore)
+- [uiball](https://uiball.com/loaders)
 
 ## Chrome Extensions
 - [Simplescraper](https://simplescraper.io/)
